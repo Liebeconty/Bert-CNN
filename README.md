@@ -1,4 +1,4 @@
 # Bert-CNN
-Use bert+cnn for text classification.
+Use bert+cnn / XLNet for text classification.
 
 Dataset: RCV1
